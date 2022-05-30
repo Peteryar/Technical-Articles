@@ -2,5 +2,11 @@
 
 ## About Repository
 
-> This repository will be containing interesting technical articles I will be reading, and will love to fallback to from time to time.
-> It will also contain Interesting Articles I am reading, but yet to finish.
+> This repository will be containing
+  - Interesting technical articles I have read.
+  - It will also contain Interesting Articles I am reading, but yet to finish.
+  - Outstanding Youtube videos on technical concepts
+
+## Categories
+1. Javascript Internals
+  - [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API]([https://www.example.com](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
