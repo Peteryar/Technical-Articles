@@ -1,4 +1,4 @@
-# Technical-Articles
+# Technical-Resources
 
 ## About Repository
 
