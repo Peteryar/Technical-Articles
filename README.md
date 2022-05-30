@@ -9,4 +9,4 @@
 
 ## Categories
 1. Javascript Internals
-  - [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API]([https://www.example.com](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
+  - [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
