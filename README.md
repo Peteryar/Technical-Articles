@@ -5,8 +5,8 @@
 > This repository will be containing
   - Interesting technical articles I have read.
   - It will also contain Interesting Articles I am reading, but yet to finish.
-  - Outstanding Youtube videos on technical concepts
-  - Articles I will love to easily refer to in the future
+  - Outstanding Youtube videos on technical concepts.
+  - Articles I will love to easily refer to in the future.
 
 ## Categories
 1. Javascript Internals
